@@ -2,7 +2,7 @@
 Patrick Willison
 Project 1
 Due: 2/9/2020
-Willispd@mail.uc.edu
+Willispd
 In this project I coded a simple script that shows computer system details and calculates the total space that you have used on any computer that has a C:drive
 Notes: The data listed is unrounded so that you have a more accurate representation of how much space you have used, and stored.
 #>
